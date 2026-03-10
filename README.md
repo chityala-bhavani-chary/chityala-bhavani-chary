@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | SQL • Excel • Python • Power BI</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=0A66C2&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Visualization+Enthusiast;Turning+Data+into+Business+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Visualization+Enthusiast;Turning+Data+into+Business+Insights" />
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 # 👨‍💻 About Me
 
-📊 Aspiring **Data Analyst passionate about turning data into actionable insights**
+📊 Aspiring **Data Analyst** passionate about transforming **raw data into actionable insights**
 
-🎓 MBA Graduate – **CMR College of Engineering & Technology, Hyderabad**
+🎓 **MBA Graduate – CMR College of Engineering & Technology, Hyderabad**
 
 💡 Skilled in **SQL, Excel, Python, and Power BI**
 
-📈 Focused on **data analysis, business insights, and data visualization**
+📈 Interested in **data analytics, business insights, and data visualization**
 
 🚀 Currently building **real-world analytics projects and dashboards**
 
@@ -52,7 +52,7 @@ https://github.com/chityala-bhavani-chary/Cars24-Used-Car-Web-Scraping
 
 **Overview**
 
-Scraped used-car listings and performed exploratory data analysis to identify pricing trends and market insights.
+Scraped used-car listings and performed exploratory data analysis to uncover pricing trends and market insights.
 
 **Tools Used**
 
@@ -67,7 +67,7 @@ https://github.com/chityala-bhavani-chary/Excel_Sales_DataAnalysis_Dashboard
 
 **Overview**
 
-Built an interactive Excel dashboard to analyze product performance, sales trends, and revenue insights.
+Built an interactive Excel dashboard to analyze sales performance and identify key revenue trends.
 
 **Tools Used**
 
@@ -82,7 +82,7 @@ https://github.com/chityala-bhavani-chary/SQL_Employee_Management_System
 
 **Overview**
 
-Designed a relational database system for managing employee data and performing SQL-based analysis.
+Designed a structured relational database system to manage employee information and perform SQL analysis.
 
 **Tools Used**
 
@@ -90,10 +90,30 @@ SQL • MySQL • Database Design
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chityala-bhavani-chary&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chityala-bhavani-chary&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chityala-bhavani-chary&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=chityala-bhavani-chary&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chityala-bhavani-chary&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -124,6 +144,8 @@ SQL • MySQL • Database Design
 ---
 
 ⭐ *Open to Data Analyst opportunities and collaborations.*
+
+---
 
 ## 🐍 Contribution Snake
 
