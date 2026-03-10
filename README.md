@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=chityala-bhavani-chary&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=chityala-bhavani-chary&label=Profile%20Visitors&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
@@ -134,3 +134,9 @@ SQL • MySQL • Database Design
 ---
 
 ⭐ *Open to Data Analyst opportunities and collaborations.*
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/chityala-bhavani-chary/chityala-bhavani-chary/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
